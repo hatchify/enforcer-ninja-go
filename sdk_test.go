@@ -118,3 +118,10 @@ func ExampleSDK_GetLimit() {
 
 	fmt.Printf("Limit: %d", limit)
 }
+
+func ExampleSDK_VerifyEmail() {
+	var err error
+	if err = testSDK.VerifyEmail("open-source@hatchify.co"); err != nil {
+		log.Fatalf("Error verifying email: %v", err)
+	}
+}
