@@ -1,2 +1,2 @@
-# Enforcer Ninja SDK (Go)
+# Enforcer Ninja SDK (Go) [![GoDoc](https://godoc.org/github.com/hatchify/enforcer-ninja-go?status.svg)](https://godoc.org/github.com/hatchify/enforcer-ninja-go) ![Status](https://img.shields.io/badge/status-beta-yellow.svg)
 Enforcer Ninja SDK is a library for the go language to aid in interfacing with the Enforcer Ninja API
